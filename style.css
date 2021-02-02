@@ -1,0 +1,9 @@
+#destacado{
+    border:solid black 1px;
+   }
+p#destacadop.destacado, span#id1{
+    border:solid black 1px;
+   }
+   p.destacado > li.elemento_enumeracion{
+    border:solid black 1px;
+   }  
